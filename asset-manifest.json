@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/testRepo/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/testRepo/static/js/main.26948cee.chunk.js",
+    "main.js.map": "/testRepo/static/js/main.26948cee.chunk.js.map",
+    "runtime~main.js": "/testRepo/static/js/runtime~main.45e5ad0c.js",
+    "runtime~main.js.map": "/testRepo/static/js/runtime~main.45e5ad0c.js.map",
+    "static/js/2.a71b1702.chunk.js": "/testRepo/static/js/2.a71b1702.chunk.js",
+    "static/js/2.a71b1702.chunk.js.map": "/testRepo/static/js/2.a71b1702.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/testRepo/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/testRepo/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/testRepo/index.html",
+    "precache-manifest.872f40e4f84aca6bdf01eb86e898d46d.js": "/testRepo/precache-manifest.872f40e4f84aca6bdf01eb86e898d46d.js",
+    "service-worker.js": "/testRepo/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/testRepo/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/testRepo/static/media/logo.06e73328.svg"
+  }
+}
